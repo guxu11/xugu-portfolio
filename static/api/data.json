@@ -1,0 +1,209 @@
+{
+    "main": {
+        "name": "Xu Gu",
+        "shortname": "Xu Gu",
+        "occupation": "Developer / Programmer / Engineer",
+        "description": "Eat, sleep, code, repeat.",
+        "yearofexperience": "5",
+        "age": "27",
+        "designation": "Software engineer",
+        "image": "/images/xugu-removebg.png",
+        "fullimage": "/images/XuGu_full.jpg",
+        "bio": "Hi there! I'm a graduate student from SF State, majoring in Computer Science. I was software engineer at Tiktok before. I have a passion for software development and love to create new things. I created a bunch of interesting software and websites. I'm looking forward to working with you!",
+        "contactmessage": "Get in touch with me to to build any software for your business.!",
+        "email": "7991uxug@gmail.com",
+        "phone": "+1 4156949667",
+        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3156.185998552909!2d-122.47737152387178!3d37.71531177200042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7c4b63b3e923%3A0x538c14a12e196f94!2s90%20Summit%20Way%2C%20San%20Francisco%2C%20CA%2094132!5e0!3m2!1sen!2sus!4v1720158836258!5m2!1sen!2sus",
+        "address": {
+            "street": "90 Summit Way",
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94132"
+        },
+        "quotes1": {
+            "sectiontitle": "My resume",
+            "title": "I Would Love to make your Ideas real",
+            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "时时勤拂拭，勿使惹尘埃"
+        },
+        "resumedownload": "https://github.com/guxu11/myresume/blob/master/XuGu_Resume.pdf",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/xu-gu-a5177b1b0",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/guxu11",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "Google Scholar",
+                "url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=OIAmpeEAAAAJ",
+                "className": "fa fa-graduation-cap"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [
+            {
+                "school": "San Francisco State University",
+                "degree": "Master's Degree, Computer Science",
+                "graduated": "May 2025 (Anticipated)",
+                "description": "Graduated with First Class Honours"
+            },
+            {
+                "school": "Nanjing University",
+                "degree": "Master's Degree, Chemical Engineering",
+                "graduated": "June 2022",
+                "description": "Graduated with First Class Honours"
+            },
+            {
+                "school": "Nanjing Normal University",
+                "degree": "Bachelor's Degree, Chemical Engineering",
+                "graduated": "June 2019",
+                "description": "Graduated with First Class Honours"
+            }
+        ],
+        "work": [
+            {
+                "company": "CS Department of SF State",
+                "title": "Software Engineer",
+                "years": "May 2024 - Present",
+                "description": "Developed MyCareerCoach, a web application that helps students to find their career path."
+            },
+            {
+                "company": "Tiktok",
+                "title": "Software Engineer",
+                "years": "Jul 2022 - Jul 2023",
+                "description": "Developed and maintained testing infrastructure for Tiktok's ads billing services. "
+            },
+            {
+                "company": "Tiktok",
+                "title": "Software Engineer Intern",
+                "years": "May 2021 - Sep 2021",
+                "description": "Developed Tiktok ads monitoring system to supervise non-compliant ads leaking."
+            }
+        ],
+        "skillssectiontitle":"Motivated by the Desire to achieve Success",
+        "skillssectiondescription":"I am a software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. I am a team player and leader who listens to the needs of the team and adapts to the changing environment. I am always committed to staying current with the latest technologies and industry trends. I am a quick learner and a great problem solver. I am always looking for opportunities to learn and grow.",
+        "skills": [{
+                "name": "Java",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "JavaScript/TypeScript",
+                "level": "80%"
+            },
+            {
+                "name": "flask",
+                "level": "70%"
+            },
+            {
+                "name": "MySQL",
+                "level": "80%"
+            },
+            {
+                "name": "Backend Development",
+                "level": "95%"
+            },
+            {
+                "name": "Deep Learning",
+                "level": "70%"
+            },
+            {
+                "name": "React",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "no":"01",
+                "title": "YouDescribeX",
+                "description": "YouDescribe is a powerful platform designed to make YouTube videos accessible through audio descriptions. It allows developers and users to add descriptions to existing YouTube content, enhancing the accessibility of videos for individuals with visual impairments and others who benefit from audio descriptions.",
+                "url": "https://ydx.youdescribe.org/"
+            },
+            {
+                "no":"02",
+                "title": "My Career Coach",
+                "description": "MyCareerCoach is a web application that helps students to create resumes and prepare for interviews. It provides professional resume templates and interview questions. ",
+                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+            },
+            {
+                "no":"03",
+                "title": "Zesty",
+                "description": "Zesty is a User-friendly Recipe Sharing Platform that allows user to share their recipes and get feedback from other users. It also provides AI-assist recipe generation and nutrition analysis.",
+                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+            },
+            {
+                "no":"04",
+                "title": "Zeolite Database",
+                "description": "Zeolite Database is a web application that provides a comprehensive database of zeolite structures and properties. It allows users to search, visualize, and analyze zeolite structures and properties.",
+                "url": "http://106.15.196.160:5656/index/en"
+            },
+            {
+                "no":"05",
+                "title": "MovieINTPN",
+                "description": "MovieINTPN (Movie Interpreter) is a command line tool to add caption in user-specified languages to movies",
+                "url": "https://github.com/guxu11/MovieINTPN"
+            },
+            {
+                "no":"06",
+                "title": "Fitbot",
+                "description": "FitBot analyzes your workout videos to offer personalized motion improvement tips. Record, upload, and receive expert feedback to optimize your form and performance in just a few simple steps.",
+                "url": "https://devpost.com/software/fitbot-2hlwxi?ref_content=user-portfolio&ref_feature=in_progress"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "I was Xu's mentor in Tiktok. Xu made significant contributions through his experiences at TikTok, where he played a key role in improving CI efficiency and stability, with his work on integrating test frameworks and optimizing processes widely adopted and benefiting numerous developers.",
+                "clientname": "Xiaoquan Lan",
+                "clientaddress": "Tiktok, Beijing, China"
+            },
+            {
+                "text": "Xu led the development of MyCareerCoach, a platform that helps job seekers build resumes and prepare for interviews. His leadership and technical skills ensured the platform's success, supporting many users and streamlining the resume creation process. In summary, Xu Gu is a talented software engineer and leader, excelling in both technical skills and team collaboration.",
+                "clientname": "Isabel Song",
+                "clientaddress": "SFSU, San Francisco, CA"
+            }
+        ]
+    },
+    "services": {
+        "services": [
+            {
+                "no": "01",
+                "title": "Web Development",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            },
+            {
+                "no": "02",
+                "title": "Web Design",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            },
+            {
+                "no": "03",
+                "title": "Web Development",
+                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+            }
+        ]
+    },
+    "awwards": {
+        "awwards": [
+            {
+                "title": "Secend place in Deep Learning Competition for RNA Structure Prediction",
+                "description": "Developed and trained a sophisticated deep learning model using TensorFlow to accurately predict the unpaired probabilities at each position of an RNA chain, leveraging advanced time series algorithms including LSTM and Transformer."
+            }
+        ]
+    }
+}
