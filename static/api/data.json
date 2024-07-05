@@ -138,13 +138,13 @@
                 "no":"02",
                 "title": "My Career Coach",
                 "description": "MyCareerCoach is a web application that helps students to create resumes and prepare for interviews. It provides professional resume templates and interview questions. ",
-                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+                "url": "https://my-career-coach.vercel.app/"
             },
             {
                 "no":"03",
                 "title": "Zesty",
                 "description": "Zesty is a User-friendly Recipe Sharing Platform that allows user to share their recipes and get feedback from other users. It also provides AI-assist recipe generation and nutrition analysis.",
-                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+                "url": "https://zesty.vercel.app/"
             },
             {
                 "no":"04",
