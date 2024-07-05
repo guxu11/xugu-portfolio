@@ -9,6 +9,9 @@
     "build": "nuxt generate",
     "start": "nuxt start"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "core-js": "^3.15.0",
     "nuxt": "^2.15.7"
