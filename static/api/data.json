@@ -168,14 +168,14 @@
     },
     "testimonials": {
         "testimonials": [{
-                "text": "I was Xu's mentor in Tiktok. Xu made significant contributions through his experiences at TikTok, where he played a key role in improving CI efficiency and stability, with his work on integrating test frameworks and optimizing processes widely adopted and benefiting numerous developers.",
-                "clientname": "Xiaoquan Lan",
-                "clientaddress": "Tiktok, Beijing, China"
+                "text": "I had the opportunity to mentor Xu Gu at Nanjing University, and I am consistently impressed by his skills and dedication. Xu excels in logical thinking, problem-solving, and interdisciplinary research. He led projects such as the Construction of Zeolite Adsorption Database and excelled in the RNA Secondary Structure Prediction Competition with innovative deep learning solutions. His proficiency in programming, modeling, and data analysis has been invaluable to his peers and projects. Xu's comprehensive skills affirm his capabilities. I highly recommend Xu for any advanced opportunity or professional role.",
+                "clientname": "Prof. Ma, Jing",
+                "clientaddress": "Nanjing University, Jiangsu, China"
             },
             {
-                "text": "Xu led the development of MyCareerCoach, a platform that helps job seekers build resumes and prepare for interviews. His leadership and technical skills ensured the platform's success, supporting many users and streamlining the resume creation process. In summary, Xu Gu is a talented software engineer and leader, excelling in both technical skills and team collaboration.",
-                "clientname": "Isabel Song",
-                "clientaddress": "SFSU, San Francisco, CA"
+                "text": "I have known Gu Xu for about two years, first as his mentor during his internship at TikTok. During this time, he developed an online advertising leak monitoring system, demonstrating his exceptional programming skills and high-quality work. Xu's teamwork and communication abilities were outstanding; he effectively collaborated with peers and assisted in problem-solving. His strong learning ability was evident when he quickly mastered the front-end framework needed for integrating the system into our internal tool platform. Xu is a driven and talented individual who excels in programming, teamwork, and handling challenges. I fully believe in his potential and highly recommend him for any future endeavors.",
+                "clientname": "Zhenyu Yin",
+                "clientaddress": "Tiktok, Shanghai, China"
             }
         ]
     },
