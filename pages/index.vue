@@ -112,6 +112,10 @@
               <h3 class="title-big">
                 {{ data.main.quotes2.title }}
               </h3>
+              <br>
+              <h4>
+                {{ data.main.quotes2.description }}
+              </h4>
             </div>
           </div>
         </div>
